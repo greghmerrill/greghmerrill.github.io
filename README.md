@@ -1,4 +1,4 @@
 greghmerrill.github.io
 ======================
 
-https://github.com/greghmerrill site source
+[greghmerrill.github.io](https://greghmerrill.github.io) site source
